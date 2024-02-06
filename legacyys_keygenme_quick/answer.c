@@ -23,7 +23,6 @@ int main()
 	*(unsigned int*)p = 0x544B3352;
 	p += 5;
 	*p = 0;
-	// Write C code here
 	
 	printf(s);
 
