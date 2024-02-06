@@ -23,4 +23,4 @@ note2:
 
 note3:
 - if a space `' '` is generated in the key, single quotes `''` are needed otherwise `argc` will not be 2
-- characters related with shell stuffs `'"< | ...` will lead to human-made swamps, that is stupid
+- for the same reason, characters related with shell stuffs `' " & < | etc.` will lead to human-made swamps, that is stupid

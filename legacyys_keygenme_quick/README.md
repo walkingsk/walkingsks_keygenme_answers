@@ -9,3 +9,7 @@ This one is a easy start
   - AAAA must be digits (`'0' - '9'`)
   - BBBB must be even for each B
   - CCCC must be exactly `"R3KT"`
+
+note:
+- in the crackme the author checks even for each byte within a group.
+- even when a byte has already been tested odd, the 4-byte-loop continues, this can be optimized

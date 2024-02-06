@@ -2,7 +2,7 @@
 
 
 | KeygenMes | Answers |
-| --------- | ------ |
+| --------- | ------- |
 | [Legacyy's Keygen me Quick!][1] | [Answer][1_1] |
 | [sc0rp10n's My first Crackme (Write a keygen)][2] | [Answer][2_1] |
 
