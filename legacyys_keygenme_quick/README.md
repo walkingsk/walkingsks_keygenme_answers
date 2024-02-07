@@ -1,6 +1,6 @@
 # legacyys_keygenme_quick
 
-This one is a easy start
+This one is an easy start
 
 - key in `XXXX-XXXX-XXXX` format
 - strlen must be 14
