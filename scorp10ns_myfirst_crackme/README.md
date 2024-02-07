@@ -24,3 +24,4 @@ note2:
 note3:
 - if a space `' '` is generated in the key, single quotes `''` are needed otherwise `argc` will not be 2
 - for the same reason, characters related with shell stuffs `' " & < | etc.` will lead to human-made swamps, that is stupid
+- I get this one `!"$"-66.+-4MI'-^KT@` from my keygen, testing it with command line is a pain in the ass
