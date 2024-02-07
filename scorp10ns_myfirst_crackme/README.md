@@ -1,6 +1,6 @@
 # scorp10ns_myfirst_crackme
 
-"prime number" is a nice idea
+"Prime number" is a nice idea
 
 - syntax of command line must be "crackme key"
   - `argc` must be exactly 2
