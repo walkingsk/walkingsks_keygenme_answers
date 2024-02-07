@@ -1,6 +1,6 @@
 # 0xdecafs_cracknkeygen
 
-
+Exclusive OR and sum based check
 - syntax of command line must be "crackme key"
   - `argc` must be exactly 2
 - key must not be "secret"
